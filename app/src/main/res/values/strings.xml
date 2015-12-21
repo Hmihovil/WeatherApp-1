@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="action_settings">Settings</string>
+    <string name="student_name" id="student">Name: Shrikant Gangade</string>
+    <string name="usc_id" id="usc_id">Student Id: 1101446809</string>
+    <string name="forecast_Search" id="search">Forecast Search</string>
+    <string name="about" id="about">About</string>
+    <string name="street" id="about">Street</string>
+    <string name="state" id="about">State</string>
+    <string name="city" id="about">City</string>
+    <string name="degree" id="about">Degree</string>
+    <string name="search" id="about">Search</string>
+    <string name="clear" id="about">Clear</string>
+    <string name="celsius" id="about">Celsius</string>
+    <string name="fahrenheit" id="about">Fahrenheit</string>
+    <string name="result" id="result_activity">Result Activity</string>
+    <string name="aeris_client_id">BXt4cF2lA1UVc9ttqqcYO</string>
+    <string name="aeris_client_secret">L2B0EPbglF09UOGkmivPj48QFDrsoqyokHgubI3q</string>
+    <string name="facebook_app_id">1665751870373590</string>
+
+</resources>
